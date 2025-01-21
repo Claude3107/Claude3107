@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Salut, je suis Claude3107
 
-<!--
-**Claude3107/Claude3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub ! Je suis un **ingénieur informaticien** passionné par la **technologie**, le **développement web** et l'**entrepreneuriat**. Mon objectif est de créer des solutions innovantes qui résolvent des problèmes réels tout en partageant mes connaissances avec la communauté.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 À propos de moi 
+- 🎥 Je gère une chaîne YouTube appelée **@dtech243**[(https://www.youtube.com/channel/Dtech243)] où je partage des astuces, des tutoriels, et des projets tech. 
+- 💻 Actuellement, je me concentre sur le **développement front-end** et j'évoluerai vers des compétences back-end à l'avenir.  
+- 🛠️ J'adore travailler sur des projets qui allient créativité et performance.  
+- 🌍 J'aime collaborer et apprendre des autres développeurs pour améliorer constamment mes compétences.  
+
+---
+
+## 🚀 Mes Compétences 
+- **Langages** : HTML, CSS, JavaScript (React en apprentissage)
+- **Outils et Technologies** : Git, VS Code, Figma  
+- **Intérêts** : Développement front-end, UI/UX, création de contenu numérique  
+
+---
+
+## 📈 Objectifs pour 2025
+- Publier régulièrement du contenu tech sur ma chaîne YouTube.  
+- Développer des projets front-end interactifs et les partager ici.  
+- Explorer des frameworks avancés comme **React** et **Vue.js**.  
+- Contribuer à des projets open source.
+
+---
+
+## 📬 Contactez-moi
+- **YouTube** : @dtech243
+[(https://www.youtube.com/channel/dtech243)] 
+- **Email** : [poignardofficiel@gmail.com]
+- **LinkedIn** : Claude Ulaluka [(https://linkedin.com/in/claudeulaluka)]  
+
+Merci de visiter mon profil ! N'hésitez pas à jeter un coup d'œil à mes projets ou à me contacter pour collaborer. 😊
