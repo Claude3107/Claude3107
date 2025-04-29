@@ -5,7 +5,7 @@ Bienvenue sur mon profil GitHub ! Je suis un **ingénieur informaticien** passio
 ---
 
 ## 🌟 À propos de moi 
-- 🎥 Je gère une chaîne YouTube appelée **@dtech243**[(https://www.youtube.com/channel/Dtech243)] où je partage des astuces, des tutoriels, et des projets tech. 
+- 🎥 Je gère une chaîne YouTube appelée **@dtech243**[(https://www.youtube.com/channel/@Dtech243)] où je partage des astuces, des tutoriels, et des projets tech. 
 - 💻 Actuellement, je me concentre sur le **développement front-end** et j'évoluerai vers des compétences back-end à l'avenir.  
 - 🛠️ J'adore travailler sur des projets qui allient créativité et performance.  
 - 🌍 J'aime collaborer et apprendre des autres développeurs pour améliorer constamment mes compétences.  
@@ -29,7 +29,7 @@ Bienvenue sur mon profil GitHub ! Je suis un **ingénieur informaticien** passio
 
 ## 📬 Contactez-moi
 - **YouTube** : @dtech243
-[(https://www.youtube.com/channel/dtech243)] 
+[(https://www.youtube.com/channel/@dtech243)] 
 - **Email** : [poignardofficiel@gmail.com]
 - **LinkedIn** : Claude Ulaluka [(https://linkedin.com/in/claudeulaluka)]  
 
